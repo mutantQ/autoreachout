@@ -1,0 +1,21 @@
+[project]
+name = "autoreachout"
+version = "0.1.0"
+description = "Markdown-first cold-outreach harness with metrics and pre-send lint rules"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pyyaml>=6.0.3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["scripts/lint/tests", "scripts/tests"]
+addopts = "-v"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]

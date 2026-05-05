@@ -1,0 +1,34 @@
+# Python build artifacts and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.venv/
+venv/
+env/
+
+# OMC workspace state
+.omc/
+
+# Local editor / Claude settings
+.claude/settings.local.json
+.idea/
+.vscode/
+
+# Real contact data — keep personal/private outreach out of the harness.
+# The fictional example contacts in this repo are intentionally committed.
+private/
+**/secrets.local.toml
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*

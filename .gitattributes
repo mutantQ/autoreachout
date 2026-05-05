@@ -1,0 +1,14 @@
+# Normalize line endings to LF on commit; let the working tree match
+# the platform on checkout. Avoids cross-platform diff noise on
+# markdown / Python / YAML files.
+* text=auto eol=lf
+
+# Binary files: never normalize.
+*.png binary
+*.pdf binary
+*.lock binary linguist-generated=true
+
+# Generated / auto-rebuilt files: hide from diffs by default and mark
+# as "generated" so GitHub doesn't count them toward language stats.
+cold_contacts.yml linguist-generated=true
+reports/charts/*.png linguist-generated=true

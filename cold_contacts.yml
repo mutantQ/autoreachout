@@ -1,0 +1,1193 @@
+# GENERATED — do not edit. Run: uv run python scripts/build_index.py
+- slug: jin-park
+  name: Jin Park
+  company: ProctorBridge Labs
+  role: CEO
+  linkedin: https://www.linkedin.com/in/example-jin-park/
+  channel: email
+  display_name: Founder
+  subject: signed-camera proctoring for high-stakes online exams
+  status: mou_signed
+  contact_type: cold
+  related_to: acme
+  vertical: proctoring
+  tags:
+  - proctoring
+  - exam-integrity
+  sent_at: '2026-02-19'
+  accepted_at: '2026-02-21'
+  last_replied_at: '2026-04-25'
+  meeting_at: '2026-03-04T07:00:00+09:00'
+  met_at: '2026-03-04'
+  notes: CEO of an online-proctoring platform. Met March 4. MOU signed April 25 covering
+    a paid pilot for one year of an enterprise certification. Re-active May 2 with
+    a 3-slot proposal for a check-in call.
+- slug: olamide-fashola
+  name: Olamide Fashola
+  company: Marina Claims Partners
+  role: CEO
+  linkedin: https://www.linkedin.com/in/example-olamide-fashola/
+  channel: email
+  display_name: Founder
+  subject: hardware-signed dashcam evidence for claims processing
+  status: mou_signed
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - insurance
+  - claims
+  - dashcam
+  sent_at: '2026-02-28'
+  accepted_at: '2026-03-03'
+  last_replied_at: '2026-04-27'
+  meeting_at: '2026-03-12T22:00:00+09:00'
+  met_at: '2026-03-12'
+  notes: CEO of an insurance claims processing firm specializing in auto claims. Met
+    March 12. MOU signed April 27 for a one-year paid pilot covering dashcam evidence
+    intake for three regional clients.
+- slug: ravi-deshmukh
+  name: Ravi Deshmukh
+  company: Truthline Forensics
+  role: Principal Examiner
+  linkedin: https://www.linkedin.com/in/example-ravi-deshmukh/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-anchored video for court admissibility
+  status: met
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - video-authentication
+  - court
+  sent_at: '2026-03-30'
+  accepted_at: '2026-03-31'
+  last_replied_at: '2026-04-02'
+  meeting_at: '2026-04-15T22:00:00+09:00'
+  met_at: '2026-04-15'
+  notes: Principal video examiner at a US forensic firm. Met April 15 (30 min). Strong
+    fit on the court-admissibility framing; offered to red-team an eval unit. Pre-production
+    unit ship pending.
+- slug: owen-blake
+  name: Owen Blake
+  company: Lenswork HR
+  role: VP, Talent
+  linkedin: https://www.linkedin.com/in/example-owen-blake/
+  channel: linkedin
+  display_name: Founder
+  subject: signed video for remote interview integrity
+  status: declined
+  contact_type: cold
+  related_to: acme
+  vertical: hiring
+  tags:
+  - hiring
+  - interview-fraud
+  sent_at: '2026-04-02'
+  accepted_at: '2026-04-03'
+  last_replied_at: '2026-04-04'
+  notes: 'VP Talent at a US hiring-tech company. Declined politely: scope-mismatch,
+    they index on candidate experience and will not introduce a hardware step at the
+    candidate side.'
+- slug: grace-odhiambo
+  name: Grace Odhiambo
+  company: Equinox Certification Standards Board
+  role: Standards Director
+  linkedin: https://www.linkedin.com/in/example-grace-odhiambo/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware signing in media certification frameworks
+  status: met
+  contact_type: cold
+  related_to: acme
+  vertical: standards
+  tags:
+  - standards
+  - certification
+  - media-integrity
+  sent_at: '2026-04-03'
+  accepted_at: '2026-04-05'
+  last_replied_at: '2026-04-28'
+  meeting_at: '2026-04-15T22:00:00+09:00'
+  met_at: '2026-04-15'
+  notes: Standards director at an international certification body. Leads a working
+    group on media integrity certification. Met April 15 for 30 minutes. Strong standards-participation
+    interest.
+- slug: elena-vasquez
+  name: Elena Vasquez
+  company: Open Provenance Forum
+  role: Senior Member
+  linkedin: https://www.linkedin.com/in/example-elena-vasquez/
+  channel: linkedin
+  display_name: Founder
+  subject: where hardware attestation fits in the roadmap
+  status: met
+  contact_type: cold
+  related_to: acme
+  vertical: standards
+  tags:
+  - standards
+  - illustrative
+  sent_at: '2026-04-05'
+  accepted_at: '2026-04-05'
+  last_replied_at: '2026-04-12'
+  meeting_at: '2026-04-22T16:00:00+09:00'
+  met_at: '2026-04-22'
+  notes: Illustrative standards-body contact for the bundled example data. Replace
+    with a real-world equivalent for your project.
+- slug: pascal-nguyen
+  name: Pascal Nguyen
+  company: Brightgate Forensic Services
+  role: Lab Director
+  linkedin: https://www.linkedin.com/in/example-pascal-nguyen/
+  channel: email
+  display_name: Founder
+  subject: hardware-anchored video for forensic lab workflows
+  status: declined
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - lab
+  - video-authentication
+  sent_at: '2026-04-05'
+  accepted_at: '2026-04-07'
+  last_replied_at: '2026-04-09'
+  notes: 'Lab director at a forensic services firm. Declined: firm is under a multi-year
+    exclusive contract with an existing vendor for video authentication tooling; cannot
+    evaluate alternatives until 2028.'
+- slug: dana-fitzgerald
+  name: Dana Fitzgerald
+  company: Meridian Wire
+  role: Senior Photo Editor
+  linkedin: https://www.linkedin.com/in/example-dana-fitzgerald/
+  channel: linkedin
+  display_name: Founder
+  subject: provenance for breaking-news photo wires
+  status: replied
+  contact_type: cold
+  related_to: acme
+  vertical: media
+  tags:
+  - provenance
+  - photojournalism
+  - provenance
+  sent_at: '2026-04-08'
+  accepted_at: '2026-04-09'
+  last_replied_at: '2026-04-19'
+  notes: Senior photo editor at a major newswire. Replied with a thoughtful note on
+    the provenance standard limits in field workflows. Suggested introducing us to
+    their tech lead.
+- slug: devraj-menon
+  name: Devraj Menon
+  company: Lighthouse Media Institute
+  role: Research Director
+  linkedin: https://www.linkedin.com/in/example-devraj-menon/
+  channel: email
+  display_name: Founder
+  subject: hardware provenance research collaboration
+  status: replied
+  contact_type: warm
+  related_to: acme
+  referred_by: jerome-petit
+  vertical: media
+  tags:
+  - media
+  - research
+  - provenance
+  sent_at: '2026-04-08'
+  last_replied_at: '2026-04-13'
+  notes: Warm intro from Jerome Petit (Lexon Media Group). Research director at a
+    media-focused academic institute. Working on provenance tooling for photojournalism.
+    Active email exchange.
+- slug: damien-walsh
+  name: Damien Walsh
+  company: Veritask HR Solutions
+  role: Chief People Officer
+  linkedin: https://www.linkedin.com/in/example-damien-walsh/
+  channel: linkedin
+  display_name: Founder
+  subject: deepfake-resistant video interviews
+  status: declined
+  contact_type: cold
+  related_to: acme
+  vertical: hiring
+  tags:
+  - hiring
+  - hr-tech
+  - interview
+  sent_at: '2026-04-10'
+  accepted_at: '2026-04-11'
+  last_replied_at: '2026-04-13'
+  notes: 'CPO at an HR software platform. Declined: company policy prohibits hardware
+    requirements for candidates; software-only approach only.'
+- slug: maya-okonkwo
+  name: Maya Okonkwo
+  company: Brightline IP
+  role: Trademark Attorney
+  linkedin: https://www.linkedin.com/in/example-maya-okonkwo/
+  channel: email
+  display_name: Founder
+  subject: USPTO word-mark filing
+  status: met
+  contact_type: referral
+  related_to: acme
+  referred_by: jin-park
+  vertical: legal
+  tags:
+  - legal
+  - trademark
+  - uspto
+  sent_at: '2026-04-10'
+  accepted_at: '2026-04-11'
+  last_replied_at: '2026-04-28'
+  meeting_at: '2026-04-18T23:00:00+09:00'
+  met_at: '2026-04-18'
+  notes: Referral from Jin Park (proctoring partner). Trademark attorney for the company
+    word mark. Engagement letter signed April 18; payment confirmed; USPTO drafting
+    in progress.
+- slug: sung-jin-park
+  name: 박성진
+  company: 새벽소프트
+  role: 제품 책임자
+  channel: remember
+  display_name: Founder
+  subject: 영상 신호 신뢰성 하드웨어
+  status: replied
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - enterprise
+  - kr
+  sent_at: '2026-04-10'
+  last_replied_at: '2026-04-14'
+  notes: 가상의 국내 소프트웨어 회사 제품 책임자 캐릭터. 일러스트레이션 용도. 명함 플랫폼을 통해 연락. 답장 수신 후 자료 요청 중.
+- slug: anita-kovalenko
+  name: Anita Kovalenko
+  company: Clearpath Legal Tech
+  role: Head of Product
+  linkedin: https://www.linkedin.com/in/example-anita-kovalenko/
+  channel: email
+  display_name: Founder
+  subject: hardware-signed evidence for legal tech platforms
+  status: replied
+  contact_type: referral
+  related_to: acme
+  referred_by: maya-okonkwo
+  vertical: legal
+  tags:
+  - legal-tech
+  - evidence
+  - product
+  sent_at: '2026-04-12'
+  last_replied_at: '2026-04-16'
+  notes: Referral from Maya Okonkwo (Brightline IP). Product lead at a legal tech
+    platform handling digital evidence workflows for law firms. Replied with interest
+    and a question about SDK availability.
+- slug: chioma-eze
+  name: Chioma Eze
+  company: Veritas Standards Consortium
+  role: Chair, Media Integrity Working Group
+  linkedin: https://www.linkedin.com/in/example-chioma-eze/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware signing as a standards primitive
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: standards
+  tags:
+  - standards
+  - media-integrity
+  - working-group
+  sent_at: '2026-04-14'
+  accepted_at: '2026-04-17'
+  notes: Chair of the media integrity working group at a cross-industry standards
+    consortium. Replied asking for a technical brief on the signing architecture.
+- slug: tomas-reyes
+  name: Tomas Reyes
+  company: Truthline Forensics
+  role: Director of Digital Evidence
+  linkedin: https://www.linkedin.com/in/example-tomas-reyes/
+  channel: email
+  display_name: Founder
+  subject: chain-of-custody for hardware-signed video evidence
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - chain-of-custody
+  - digital-evidence
+  sent_at: '2026-04-14'
+  notes: Director of digital evidence at a forensic services firm. Published a whitepaper
+    on video authentication challenges in 2025. No reply at 20 days.
+- slug: priya-raman
+  name: Priya Raman
+  company: Coastline Mutual Insurance
+  role: SIU Director
+  linkedin: https://www.linkedin.com/in/example-priya-raman/
+  channel: email
+  display_name: Founder
+  subject: signed dashcam evidence for staged-collision SIU
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - siu
+  - claims
+  - fraud
+  sent_at: '2026-04-15'
+  accepted_at: '2026-04-16'
+  notes: SIU director at a mid-size US insurer; has spoken publicly on staged-collision
+    rings. Replied with a single line accepting follow-up. Demo video next.
+- slug: adaeze-nwachukwu
+  name: Adaeze Nwachukwu
+  company: ProctorBridge
+  role: VP, Trust and Safety
+  linkedin: https://www.linkedin.com/in/example-adaeze-nwachukwu/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-rooted camera integrity for proctoring platforms
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: proctoring
+  tags:
+  - proctoring
+  - trust-safety
+  - virtual-camera
+  sent_at: '2026-04-16'
+  accepted_at: '2026-04-18'
+  notes: VP Trust and Safety at an online proctoring platform. Focused on virtual-camera
+    detection and bypass prevention. Replied asking for a product brief.
+- slug: brigid-oconnell
+  name: Brigid O'Connell
+  company: Skybridge Wire Service
+  role: Head of Visual Verification
+  linkedin: https://www.linkedin.com/in/example-brigid-oconnell/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware provenance for newswire photography
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: media
+  tags:
+  - newswire
+  - photo
+  - provenance
+  sent_at: '2026-04-17'
+  notes: Heads visual verification at a regional newswire. Posted about provenance-standard
+    adoption friction in newsrooms. No reply at 17 days.
+- slug: rajesh-pillai
+  name: Rajesh Pillai
+  company: Harborview Ventures
+  role: Partner
+  linkedin: https://www.linkedin.com/in/example-rajesh-pillai/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware security thesis and signed media
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - hardware-security
+  - deeptech
+  sent_at: '2026-04-17'
+  accepted_at: '2026-04-19'
+  notes: Partner at a hardware-security focused fund. Accepted connection and asked
+    for a one-pager. Demo video and one-pager in progress.
+- slug: nadia-petrova
+  name: Nadia Petrova
+  company: Irongate Cybersecurity
+  role: Head of Product, Identity
+  linkedin: https://www.linkedin.com/in/example-nadia-petrova/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-rooted frame signing for remote identity
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - identity
+  - kyc
+  - product
+  sent_at: '2026-04-18'
+  notes: Head of product for a cybersecurity firm focused on remote identity. Posted
+    publicly about liveness-check evasion trends. No reply at 16 days.
+- slug: nkechi-obi
+  name: Nkechi Obi
+  company: Pinnacle Investigations
+  role: Director of Digital Forensics
+  linkedin: https://www.linkedin.com/in/example-nkechi-obi/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-signed video for insurance investigation
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - insurance
+  - digital-investigation
+  sent_at: '2026-04-18'
+  accepted_at: '2026-04-20'
+  notes: Digital forensics director at an investigations firm serving insurers. Accepted
+    LinkedIn connection on day 2. Demo video next step.
+- slug: anders-lindqvist
+  name: Anders Lindqvist
+  company: Polaris Deeptech Ventures
+  role: General Partner
+  linkedin: https://www.linkedin.com/in/example-anders-lindqvist/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-security seed thesis
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - deeptech
+  - hardware-security
+  sent_at: '2026-04-19'
+  notes: GP at a Nordic deeptech fund with a public hardware-security thesis. Led
+    a seed round in a PQC chip startup in 2025. No reply at 15 days.
+- slug: luciana-ferreira
+  name: Luciana Ferreira
+  company: Ironwood Patent Group
+  role: Patent Attorney
+  linkedin: https://www.linkedin.com/in/example-luciana-ferreira/
+  channel: email
+  display_name: Founder
+  subject: patent strategy for hardware signing architecture
+  status: met
+  contact_type: referral
+  related_to: acme
+  referred_by: maya-okonkwo
+  vertical: legal
+  tags:
+  - legal
+  - patent
+  - ip-strategy
+  sent_at: '2026-04-19'
+  accepted_at: '2026-04-21'
+  last_replied_at: '2026-04-29'
+  meeting_at: '2026-04-25T21:00:00+09:00'
+  met_at: '2026-04-25'
+  notes: Referral from Maya Okonkwo (trademark attorney). Patent attorney specializing
+    in hardware and semiconductor IP. Met April 25 to scope patent strategy for the
+    signing architecture.
+- slug: felix-bauer
+  name: Felix Bauer
+  company: Cipherworks AG
+  role: Head of Security Research
+  linkedin: https://www.linkedin.com/in/example-felix-bauer/
+  channel: linkedin
+  display_name: Founder
+  subject: silicon-level signing and camera tamper research
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - security-research
+  - hardware
+  - silicon
+  sent_at: '2026-04-20'
+  accepted_at: '2026-04-22'
+  notes: Security researcher at a European hardware security firm. Focus on embedded
+    systems attestation. Accepted connection and opened a conversation about eval
+    access.
+- slug: fiona-mcallister
+  name: Fiona McAllister
+  company: Ridgecrest University
+  role: Professor, Digital Media Studies
+  linkedin: https://www.linkedin.com/in/example-fiona-mcallister/
+  channel: email
+  display_name: Founder
+  subject: hardware provenance and deepfake literacy curriculum
+  status: replied
+  contact_type: warm
+  related_to: acme
+  referred_by: devraj-menon
+  vertical: academic
+  tags:
+  - academic
+  - media-literacy
+  - deepfake
+  sent_at: '2026-04-20'
+  last_replied_at: '2026-04-24'
+  notes: Warm intro from Devraj Menon (Lighthouse Media Institute). Media studies
+    professor developing curriculum on deepfake literacy and provenance tools. Active
+    email exchange.
+- slug: kwame-asante
+  name: Kwame Asante
+  company: Meridian Life and Casualty
+  role: VP, Claims Technology
+  linkedin: https://www.linkedin.com/in/example-kwame-asante/
+  channel: remember
+  display_name: Founder
+  subject: signed-camera evidence for vehicle claims
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - claims
+  - fraud
+  - auto
+  sent_at: '2026-04-20'
+  notes: Claims-tech VP at a mid-size insurer with a large auto book. Reached out
+    via Remember after a conference surface match. No reply at 14 days; approaching
+    nudge window.
+- slug: asha-iyer
+  name: Asha Iyer
+  company: Harborview University
+  role: Associate Professor, Cryptography
+  linkedin: https://www.linkedin.com/in/example-asha-iyer/
+  channel: email
+  display_name: Founder
+  subject: applied research on hardware-signed media
+  status: replied
+  contact_type: warm
+  related_to: acme
+  referred_by: dana-fitzgerald
+  vertical: academic
+  tags:
+  - academic
+  - cryptography
+  - applied-research
+  sent_at: '2026-04-21'
+  accepted_at: '2026-04-22'
+  last_replied_at: '2026-04-30'
+  notes: Warm intro from Dana Fitzgerald (newswire photo editor). Cryptography prof;
+    advises on key-custody for journalism tools. Open to a June campus visit.
+- slug: jerome-petit
+  name: Jerome Petit
+  company: Lexon Media Group
+  role: Editor-in-Chief
+  linkedin: https://www.linkedin.com/in/example-jerome-petit/
+  channel: linkedin
+  display_name: Founder
+  subject: camera-level provenance for editorial workflows
+  status: accepted
+  contact_type: cold
+  related_to: acme
+  vertical: media
+  tags:
+  - editorial
+  - provenance
+  - news-media
+  sent_at: '2026-04-21'
+  accepted_at: '2026-04-24'
+  notes: Editor-in-chief at a mid-size news media group. Wrote an op-ed on provenance
+    infrastructure gaps in digital journalism. Accepted connection and opened dialogue.
+- slug: chen-xiaoming
+  name: Chen Xiaoming
+  company: Pacific Rim University
+  role: Associate Professor, Electrical Engineering
+  linkedin: https://www.linkedin.com/in/example-chen-xiaoming/
+  channel: email
+  display_name: Founder
+  subject: hardware attestation for imaging pipelines
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: academic
+  tags:
+  - academic
+  - imaging
+  - hardware-attestation
+  sent_at: '2026-04-22'
+  notes: Associate professor whose recent grant covers secure imaging pipelines. Lab
+    focuses on sensor-level trust. 12 days silent.
+- slug: elliot-nakamura
+  name: Elliot Nakamura
+  company: Parallax Ventures
+  role: General Partner
+  linkedin: https://www.linkedin.com/in/example-elliot-nakamura/
+  channel: email
+  display_name: Founder
+  subject: hardware attestation and the sensor trust layer
+  status: met
+  contact_type: warm
+  related_to: acme
+  referred_by: rajesh-pillai
+  vertical: investor
+  tags:
+  - vc
+  - hardware
+  - sensor-trust
+  sent_at: '2026-04-22'
+  accepted_at: '2026-04-23'
+  last_replied_at: '2026-04-30'
+  meeting_at: '2026-04-28T15:00:00-07:00'
+  met_at: '2026-04-28'
+  notes: Warm intro from Rajesh Pillai (Harborview Ventures). GP at a deeptech seed
+    fund with prior portfolio in embedded systems. Met April 28 for 45 minutes.
+- slug: gregor-vance
+  name: Gregor Vance
+  company: Arclight Security Partners
+  role: Principal Consultant
+  linkedin: https://www.linkedin.com/in/example-gregor-vance/
+  channel: email
+  display_name: Founder
+  subject: hardware video signing for government-adjacent clients
+  status: replied
+  contact_type: inbound
+  related_to: acme
+  vertical: security
+  tags:
+  - security-consulting
+  - government
+  - hardware
+  sent_at: '2026-04-22'
+  last_replied_at: '2026-04-25'
+  notes: Inbound inquiry via the website contact form. Security consultant working
+    with government-adjacent clients on surveillance integrity. Followed up the same
+    day. Active exchange.
+- slug: marcus-okafor
+  name: Marcus Okafor
+  company: Bluefield Bank
+  role: VP, Fraud Operations
+  linkedin: https://www.linkedin.com/in/example-marcus-okafor/
+  channel: remember
+  display_name: Founder
+  subject: KYC video integrity for retail banking
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - kyc
+  - fraud
+  - banking
+  sent_at: '2026-04-22'
+  notes: Reached out via Remember (KR business-card platform) on a referral surface
+    match. Fraud Ops lead; public talks on synthetic identity. No reply at 13 days;
+    nudge zone.
+- slug: tobias-herrera
+  name: Tobias Herrera
+  company: Vanta University
+  role: Professor, Computer Vision
+  linkedin: https://www.linkedin.com/in/example-tobias-herrera/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-anchored authenticity for vision research
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: academic
+  tags:
+  - academic
+  - computer-vision
+  - deepfake-detection
+  sent_at: '2026-04-23'
+  notes: Computer vision professor publishing on deepfake detection and media forensics.
+    No reply at 11 days.
+- slug: yusuf-al-rashidi
+  name: Yusuf Al-Rashidi
+  company: Strongline Identity
+  role: CTO
+  linkedin: https://www.linkedin.com/in/example-yusuf-al-rashidi/
+  channel: linkedin
+  display_name: Founder
+  subject: silicon-rooted camera attestation
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - identity
+  - attestation
+  - hardware-security
+  sent_at: '2026-04-23'
+  notes: CTO of a fictional identity-security startup. Illustrative profile only.
+    No reply at 11 days.
+- slug: ibrahim-al-farsi
+  name: Ibrahim Al-Farsi
+  company: Westmark Forensic Consulting
+  role: Senior Digital Evidence Analyst
+  linkedin: https://www.linkedin.com/in/example-ibrahim-al-farsi/
+  channel: email
+  display_name: Founder
+  subject: hardware-anchored chain of custody for digital video
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - chain-of-custody
+  - digital-evidence
+  sent_at: '2026-04-24'
+  notes: Senior evidence analyst at a forensic consultancy. Publishes on video authentication
+    methodology. No reply at 10 days.
+- slug: amara-diallo
+  name: 디알로 아마라
+  company: 구름화재보험
+  role: 디지털손해사정팀 부장
+  channel: remember
+  display_name: Founder
+  subject: 영상 증거 진위 확인 하드웨어
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - insurance
+  - claims
+  - kr
+  sent_at: '2026-04-25'
+  notes: 구름화재보험 디지털손해사정팀 부장. 보험 청구 사기 예방 세미나 발표 이력. Remember(리멤버) DM 발송 후 9일 경과, 미회신.
+- slug: liang-wei
+  name: Liang Wei
+  company: Silverwall Security
+  role: Principal Security Architect
+  linkedin: https://www.linkedin.com/in/example-liang-wei/
+  channel: email
+  display_name: Founder
+  subject: hardware-signed video for zero-trust camera feeds
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - zero-trust
+  - camera
+  - architecture
+  sent_at: '2026-04-25'
+  notes: Principal architect at a security consultancy. Wrote a blog post on zero-trust
+    gaps in physical security camera feeds. 9 days silent.
+- slug: naledi-dube
+  name: Naledi Dube
+  company: Meridian Standards Institute
+  role: Principal Standards Engineer
+  linkedin: https://www.linkedin.com/in/example-naledi-dube/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware signing and media authenticity standards
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: standards
+  tags:
+  - standards
+  - media-authenticity
+  - provenance
+  sent_at: '2026-04-26'
+  notes: Standards engineer at a recognized media-tech standards body. Active in authenticity
+    specification work. No reply at 8 days.
+- slug: piotr-zajac
+  name: Piotr Zajac
+  company: Crestview Re
+  role: SVP, Underwriting Technology
+  linkedin: https://www.linkedin.com/in/example-piotr-zajac/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-signed inspection video for reinsurance underwriting
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - reinsurance
+  - underwriting
+  - inspection-video
+  sent_at: '2026-04-26'
+  notes: SVP Underwriting Technology at a reinsurance firm. Blog post on remote inspection
+    fraud in property underwriting. No reply at 8 days.
+- slug: rashida-musa
+  name: Rashida Musa
+  company: Verdant Forensic Services
+  role: Senior Digital Forensic Examiner
+  linkedin: https://www.linkedin.com/in/example-rashida-musa/
+  channel: linkedin
+  display_name: Founder
+  subject: authenticated video evidence workflow
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - video-authentication
+  - examiner
+  sent_at: '2026-04-26'
+  notes: Senior forensic examiner with a public focus on video authenticity challenges
+    in court. Posted about hash-only verification weaknesses. 8 days silent.
+- slug: hiroshi-naka
+  name: Hiroshi Naka
+  company: Clearframe Media
+  role: Director of Content Authenticity
+  linkedin: https://www.linkedin.com/in/example-hiroshi-naka/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware provenance for broadcast originals
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: media
+  tags:
+  - broadcast
+  - content-authenticity
+  - provenance
+  sent_at: '2026-04-27'
+  notes: Content authenticity lead at a mid-size broadcast media company. Active in
+    the provenance standard working group discussions. No reply at 7 days.
+- slug: dmitri-volkov
+  name: Dmitri Volkov
+  company: Sentinel Arc Security
+  role: CTO
+  linkedin: https://www.linkedin.com/in/example-dmitri-volkov/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-signed video for physical security integration
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - physical-security
+  - video-surveillance
+  - cto
+  sent_at: '2026-04-28'
+  notes: CTO at a mid-size physical security integration firm. Spoke on panel about
+    IP camera tampering at a recent industry conference. No reply at 6 days.
+- slug: fatima-nkosi
+  name: Fatima Nkosi
+  company: Highveld Assurance Group
+  role: Head of SIU
+  linkedin: https://www.linkedin.com/in/example-fatima-nkosi/
+  channel: remember
+  display_name: Founder
+  subject: evidence integrity for SIU investigations
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: insurance
+  tags:
+  - siu
+  - fraud
+  - evidence
+  sent_at: '2026-04-28'
+  notes: SIU head at a South-Africa-based insurance group with a growing claims-fraud
+    caseload. Met at an industry sidebar conversation. 6 days silent.
+- slug: yewande-olusegun
+  name: Yewande Olusegun
+  company: Frontier Hire Inc
+  role: Head of Talent Technology
+  linkedin: https://www.linkedin.com/in/example-yewande-olusegun/
+  channel: linkedin
+  display_name: Founder
+  subject: deepfake-resistant video for remote hiring
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: hiring
+  tags:
+  - hiring
+  - talent-tech
+  - interview-integrity
+  sent_at: '2026-04-28'
+  notes: Talent technology lead at a large staffing company. Published a blog post
+    on AI-assisted candidate impersonation risks. No reply at 6 days.
+- slug: felicia-montoya
+  name: Felicia Montoya
+  company: Peregrine Exam Partners
+  role: Head of Assessment Integrity
+  email: felicia.montoya@peregrine-exam.example
+  channel: email
+  display_name: Founder
+  subject: signed-camera integrity for professional licensing exams
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: proctoring
+  tags:
+  - proctoring
+  - licensing
+  - assessment-integrity
+  sent_at: '2026-04-29'
+  notes: Assessment integrity lead at a professional licensing exam provider. Focuses
+    on remote exam fraud patterns. No reply at 5 days.
+- slug: katrin-baumann
+  name: Katrin Baumann
+  company: Ironstone Advisors
+  role: General Partner
+  linkedin: https://www.linkedin.com/in/example-katrin-baumann/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-attestation deeptech thesis
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - deeptech
+  - hardware
+  sent_at: '2026-04-30'
+  notes: GP at a deeptech-focused fund with public thesis on physical-layer trust.
+    Closed a hardware security deal in Q1. No reply at 4 days.
+- slug: simone-archambault
+  name: Simone Archambault
+  company: Tidewater Legal Group
+  role: Partner, Digital Evidence Practice
+  linkedin: https://www.linkedin.com/in/example-simone-archambault/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-signed video for litigation evidence
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: legal
+  tags:
+  - litigation
+  - digital-evidence
+  - legal
+  sent_at: '2026-05-01'
+  notes: Partner heading digital evidence practice at a litigation firm. Handles disputes
+    where video authenticity is contested. No reply at 3 days.
+- slug: calista-morgan
+  name: Calista Morgan
+  company: Ridgeline Security Partners
+  role: Managing Director
+  linkedin: https://www.linkedin.com/in/example-calista-morgan/
+  channel: linkedin
+  display_name: Founder
+  subject: camera-layer hardware attestation for enterprise security
+  status: sent
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - enterprise-security
+  - hardware-attestation
+  - cctv
+  sent_at: '2026-05-02'
+  notes: Managing director at a security consulting and integration firm. Advises
+    enterprise clients on surveillance stack hardening. No reply at 2 days.
+- slug: bastien-leroy
+  name: Bastien Leroy
+  company: Archon Systems
+  role: VP, Product Security
+  linkedin: https://www.linkedin.com/in/example-bastien-leroy/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware signing layer for product security stacks
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - product-security
+  - hardware
+  - firmware
+  notes: VP Product Security at an IoT platform company. Talks on firmware attestation
+    and supply chain integrity. LinkedIn draft pending review.
+- slug: bertrand-koffi
+  name: Bertrand Koffi
+  company: Credentialing Council International
+  role: Director, Assessment Technology
+  linkedin: https://www.linkedin.com/in/example-bertrand-koffi/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware-signed proctoring for high-stakes credentialing
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: hiring
+  tags:
+  - hiring
+  - credentialing
+  - assessment-technology
+  notes: Assessment technology director at an international credentialing body. Oversees
+    remote proctoring policy for professional certification programs used by employers.
+    LinkedIn draft pending review.
+- slug: celine-marchetti
+  name: Celine Marchetti
+  company: Parallax Security Consulting
+  role: Associate Consultant
+  linkedin: https://www.linkedin.com/in/example-celine-marchetti/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware attestation for physical security stack
+  status: skipped
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - security-consulting
+  - junior
+  - associate
+  notes: 'Skipped: associate consultant, not a decision-maker or budget holder. Reaching
+    an associate before the principal can complicate the principal conversation later.
+    Rerouting to the principal-level search at the same firm.'
+- slug: hyun-soo-bae
+  name: 배현수
+  company: 푸른돌 디지털감정원
+  role: 수석 감정사
+  channel: kakaotalk
+  display_name: Founder
+  subject: 영상 자료 진위 확인 하드웨어
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: forensic
+  tags:
+  - forensic
+  - kr
+  notes: 국내 가상의 디지털 감정원 수석 감정사 캐릭터. 일러스트레이션 용도. KakaoTalk DM 발송 예정.
+- slug: jae-won-lim
+  name: 임재원
+  company: 한빛로지스틱스
+  role: 운영혁신팀장
+  channel: remember
+  display_name: Founder
+  subject: 현장 영상 위변조 방지 하드웨어
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: security
+  tags:
+  - logistics
+  - kr
+  notes: 국내 물류 운영혁신팀장. 운송 현장 카메라 데이터 신뢰성을 공개 세미나에서 다룬 이력. 명함 플랫폼을 통한 DM 발송 예정.
+- slug: kwabena-frimpong
+  name: Kwabena Frimpong
+  company: Goldleaf Capital
+  role: Partner
+  linkedin: https://www.linkedin.com/in/example-kwabena-frimpong/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware trust layer for media and identity
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - deeptech
+  - identity
+  notes: Partner at a seed-to-Series-A fund with public thesis on identity and trust
+    infrastructure. LinkedIn draft pending review.
+- slug: leo-tanaka
+  name: Leo Tanaka
+  company: Sentinel Cybernetics
+  role: Director of Research
+  linkedin: https://www.linkedin.com/in/example-leo-tanaka/
+  channel: email
+  display_name: Founder
+  subject: hardware attestation collaboration
+  status: replied
+  contact_type: inbound
+  related_to: acme
+  vertical: security
+  tags:
+  - research
+  - partnerships
+  last_replied_at: '2026-05-01'
+  notes: 'Inbound: Leo emailed after seeing a public talk on hardware-anchored video.
+    Director of Research at a cybersecurity firm. Asked about a research collaboration.'
+- slug: miriam-osei
+  name: Miriam Osei
+  company: Brightfield University School of Law
+  role: Associate Professor, Evidence Law
+  linkedin: https://www.linkedin.com/in/example-miriam-osei/
+  channel: email
+  display_name: Founder
+  subject: hardware-signed video and the authentication doctrine
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: academic
+  tags:
+  - legal
+  - evidence-law
+  - academic
+  notes: Law professor specializing in digital evidence authentication doctrine. Published
+    on deepfake video and the best-evidence rule. Email draft pending review.
+- slug: oliver-grant
+  name: Oliver Grant
+  company: Lexington Ventures
+  role: Associate
+  linkedin: https://www.linkedin.com/in/example-oliver-grant/
+  channel: linkedin
+  display_name: Founder
+  subject: deeptech thesis match
+  status: skipped
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - junior
+  notes: 'Skipped: thesis-match search surfaced an associate, not a partner. Without
+    a check-writing seat the conversation does not move forward, and an associate-cold
+    can poison the partner channel later. Re-route to the partner search.'
+- slug: sarah-chen
+  name: Sarah Chen
+  company: Bridgepoint Deeptech Fund
+  role: Partner
+  linkedin: https://www.linkedin.com/in/example-sarah-chen/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware attestation thesis
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: investor
+  tags:
+  - vc
+  - deeptech
+  notes: Bridgepoint has a public deeptech thesis. Connection note draft pending review.
+- slug: sofia-guerrero
+  name: Sofia Guerrero
+  company: Greenleaf Certification Board
+  role: Director, Exam Security
+  linkedin: https://www.linkedin.com/in/example-sofia-guerrero/
+  channel: email
+  display_name: Founder
+  subject: hardware-signed proctoring for credential integrity
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: proctoring
+  tags:
+  - proctoring
+  - certification
+  - exam-security
+  notes: Exam security director at a professional certification board. Active on remote-exam
+    integrity policy. Email draft pending review.
+- slug: valentina-russo
+  name: Valentina Russo
+  company: Spectra Broadcast News
+  role: Head of Verification
+  linkedin: https://www.linkedin.com/in/example-valentina-russo/
+  channel: linkedin
+  display_name: Founder
+  subject: hardware provenance for newsroom verification workflows
+  status: draft
+  contact_type: cold
+  related_to: acme
+  vertical: media
+  tags:
+  - newsroom
+  - verification
+  - provenance
+  notes: Head of verification at a regional broadcast news organization. Spoke at
+    a journalism-tech conference on synthetic media risks. LinkedIn draft pending
+    review.

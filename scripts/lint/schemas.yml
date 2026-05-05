@@ -1,0 +1,89 @@
+# Frontmatter schemas — canonical field list per directory.
+#
+# Used by: scripts/lint/rules/frontmatter_schema.py
+# Adding a new field: add it to the relevant directory's list below.
+# Removing a field: also clean it from existing files first.
+#
+# Why data-driven: keeps the canonical list in one place, makes drift
+# (e.g., new field invented in a single file) auditable as a single
+# YAML diff instead of hunting through SKILL.md prose.
+
+cold_contacts:
+  # Source: contact-manager/SKILL.md canonical schema (25) + 2 frequently-used
+  # extras (phone:4, location:3) that survived the 2026-04-25 consolidation.
+  - slug
+  - name
+  - company
+  - role
+  - linkedin
+  - email
+  - channel
+  - method
+  - display_name
+  - subject
+  - status
+  - contact_type
+  - related_to
+  - referred_by
+  - vertical
+  - tags
+  - sent_at
+  - accepted_at
+  - last_replied_at
+  - followed_up_at
+  - meeting_at
+  - met_at
+  - kakaotalk_chat_id
+  - see_also
+  - notes
+  - phone
+  - location
+
+vendors:
+  # Source: existing vendor file usage (4 files as of 2026-04-25). Permissive
+  # because vendor count is small and each vendor type has different fields.
+  - slug
+  - type
+  - vendor_category
+  - contact_email
+  - primary_contact
+  - secondary_contact
+  - website
+  - address
+  - us_office
+  - phone_seoul
+  - phone_sv
+  - phone
+  - referred_by
+  - service
+  - affiliation
+  - contact_channel
+  - cc_contacts
+  - discord_handle
+  - discord_server
+  - initial_budget
+  - payment_method
+  - stripe_payment_link
+  - kakaotalk_chat_id
+  - kakaotalk_chat_name
+  - last_replied_at
+  - notes
+
+pitch_events:
+  # Source: single bundled pitch-event example.
+  # Add fields as more events get logged.
+  - slug
+  - event_name
+  - date
+  - venue
+  - time
+  - format
+  - organizers
+  - judges_count
+  - stage
+  - pitch_material
+  - coordinator
+  - result_notification
+  - outcome
+  - presenter
+  - notes

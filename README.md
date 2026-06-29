@@ -103,7 +103,7 @@ test. that's it.
 |---|---|
 | pre-send lint rules | **16** |
 | tests, all passing | **349** |
-| reusable claude code skills | **4** |
+| reusable claude code skills | **5** |
 | fictional example contacts | **50+** |
 | verticals covered in example data | **10** |
 | outbound clicks the harness automates | **0** (every send stays manual) |
@@ -291,7 +291,7 @@ walks you through it.
 | `events/{year}-{slug}.md` | conference / trip umbrella records |
 | `pitch_events/{date}-{slug}.md` | pitch-event recaps + lessons |
 | `reports/OUTREACH_REPORT.md` | periodic regenerable status report |
-| `.claude/skills/` | 4 reusable skills (contact-manager, outreach-email, outreach-reflection, typo-prevention-cold-drafts) |
+| `.claude/skills/` | 5 reusable skills (batch-draft, contact-manager, outreach-email, outreach-reflection, typo-prevention-cold-drafts) |
 
 ---
 
